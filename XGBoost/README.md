@@ -15,7 +15,7 @@ XGBoost是陈天奇等人开发的一个开源机器学习项目，XGBoost是经
 #### <span id="1.1">1.1 XGBoost定义</sapn>
 
 #### <span id="1.2">1.2 XGBoost目标函数</sapn>
-![objective](objective.jpg)
+![objective](https://github.com/wyj925458224/Machine-Learning/blob/master/XGBoost/objective.jpg)
 
 #### <span id="1.3">1.3 </sapn>
 
