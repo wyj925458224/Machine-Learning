@@ -23,7 +23,7 @@ XGBoost的核心思想就是：
 XGBoost目标函数如下图所示：</br>
 假设模型最后得到 *K* 棵树，最后样本的预测值等于 *K* 棵树中该样本特征对应叶子结点的值的和；
 
-![objective](https://github.com/wyj925458224/Machine-Learning/tree/master/XGBoost/img/objective.jpg)
+![objective](https://github.com/wyj925458224/Machine-Learning/tree/master/XGBoost/objective.jpg)
 
 
 
